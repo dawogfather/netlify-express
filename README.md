@@ -3,6 +3,8 @@
 [![Deploy to
 Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/neverendingqs/netlify-express)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e0dfb81b-1382-4f4b-b9df-80c1ef4aafe2/deploy-status)](https://app.netlify.com/sites/upbeat-shaw-840f8b/deploys)
+
 An example of how to host an Express.js app on Netlify using
 [serverless-http](https://github.com/dougmoscrop/serverless-http). See
 [express/server.js](express/server.js) for details, or check it out at
