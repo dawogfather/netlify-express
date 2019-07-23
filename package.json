@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/neverendingqs/netlify-express#readme",
   "dependencies": {
-    "lodash": ">=4.17.11"
+    "lodash": ">=4.17.13"
   },
   "devDependencies": {
     "body-parser": "^1.18.3",
